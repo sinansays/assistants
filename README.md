@@ -1,6 +1,18 @@
 # assistants
 Custom instruction prompts for LLM assistants/bots/GPTs
 
+## purpose
+
+This repository is dedicated to sharing and openly documenting custom assistants built on top of LLMs (primarily for OpenAI's 'GPTs' at the moment). These assistants are tailored to specific tasks, enhancing productivity and decision-making by tapping into the extensive world knowledge embedded in these models.
+
+These specialized assistants can perform retrieval-augmented generation (RAG) and automate tasks, thereby extending the capabilities of foundational models to suit personal or organizational needs. However, one significant limitation remains—the lack of transparency in sharing the custom instruction prompts and configurations that drive these tailored interactions.
+
+In the spirit of open knowledge and collaboration, this repository aims to bridge that gap. By publicly documenting and sharing the custom instructions and configurations, it ensures transparency and fosters a community where shared knowledge leads to enhanced utility and innovation across various applications.
+
+[Echoing the perspective of Simon Willison](https://simonwillison.net/2023/Nov/15/gpts/), it is anticipated that the details of how we configure and interact with these assistants might eventually become public knowledge (through prompt injection or otherwise). Therefore, instead of guarding these prompts as proprietary secrets, I am embracing openness. Sharing custom prompts can help contribute to a broader understanding and improvement of custom LLM assistant usage.
+
+Through this repository, I invite collaboration, feedback, and contributions from all, ranging from enthusiasts to experts, to refine and expand the capabilities of custom LLM assistants. The goal is to build effective tools in a manner that is openly accessible and beneficial to the community at large.
+
 ## directory
 
 - [VoiceEntryGPT](https://chatgpt.com/g/g-iLWRNBYhs-voiceentrygpt)
