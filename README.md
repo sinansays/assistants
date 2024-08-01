@@ -1,7 +1,7 @@
 # assistants
 Custom instruction prompts for LLM assistants/bots/GPTs
 
-## Directory
+## directory
 
 - [VoiceEntryGPT](https://chatgpt.com/g/g-iLWRNBYhs-voiceentrygpt)
     - Transforming voice memos into structured, reflective written entries
@@ -19,6 +19,8 @@ Custom instruction prompts for LLM assistants/bots/GPTs
     - Analyzes and highlights critical clauses and terms in legal documents to inform and guide potential signers
 - [PM Assistant](https://chatgpt.com/g/g-dsxwNwy5w-pm-assistant)
     - Generalist product management assistant
+
+## licensing
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
